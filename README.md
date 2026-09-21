@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vikas+Gadade+%F0%9F%91%8B;AI+%26+ML+Engineer+%F0%9F%A4%96;Multi-Agent+Systems+%26+Automation;Building+the+Future+of+AI+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Vikas+Gadade+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Multi-Agent+Systems+%26+Automation;Building+the+Future+of+AI+%E2%9A%A1" alt="Typing SVG" />
   
   <p align="center">
     🎓 <b>Diploma in AI & Machine Learning</b> | MSBTE (K-Scheme) <br />
@@ -10,6 +10,7 @@
     <a href="https://github.com/vikasgadade5sep-oss?tab=repositories">
       <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%26%20Automation-0284c7?style=for-the-badge&logo=openai&logoColor=white" alt="Focus Badge" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=vikasgadade5sep-oss&color=0284c7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
     <a href="#connect">
       <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=for-the-badge" alt="Status" />
     </a>
@@ -21,9 +22,9 @@
 ### ⚡ About Me
 
 - 🤖 **Specialization**: Artificial Intelligence, Machine Learning & Intelligent Automation.
-- 🧠 **Research & Exploration**: Multi-Agent Architectures, Agentic Workflows, and Local LLMs.
+- 🧠 **Research & Focus**: Multi-Agent Architectures, Agentic Workflows, and Local LLMs.
 - 🛠️ **Engineering**: Building developer tools, data extraction pipelines, and automated workflows.
-- 💻 **Hardware & Compute**: NVIDIA RTX 3050 (6GB VRAM) | 16GB RAM | Optimized PyTorch & CUDA pipelines.
+- 💻 **Hardware Stack**: NVIDIA RTX 3050 (6GB VRAM) | 16GB RAM | PyTorch CUDA & Anaconda.
 
 ---
 
@@ -45,7 +46,7 @@
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### Frameworks, Automation & Tools
+#### Automation, DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -56,27 +57,25 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🚀 Featured Engineering Repositories
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasgadade5sep-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikas's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasgadade5sep-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasgadade5sep-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| [**`msbte-dsa-python`**](https://github.com/vikasgadade5sep-oss/msbte-dsa-python) | Data structures & searching algorithms mapped to MSBTE 313306 with strict type hints and Big-O docstrings. | Python 3.10+, DSA | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
+| [**`ai-statistical-modelling-ml`**](https://github.com/vikasgadade5sep-oss/ai-statistical-modelling-ml) | Ordinary Least Squares regression from scratch, probability distributions & evaluation metrics (MSBTE 313307). | Python, NumPy, Scikit-Learn | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
+| [**`intelligent-document-analyzer`**](https://github.com/vikasgadade5sep-oss/intelligent-document-analyzer) | High-throughput document text extraction and sliding-window semantic chunking pipeline for LLM / RAG tooling. | Python, NLP, Regex | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
 
 ---
 
-### 📌 Featured Areas of Work
+### 📈 Activity & Insights
 
-| Domain | Key Focus & Deliverables |
-| :--- | :--- |
-| 🤖 **AI & ML Pipelines** | Supervised/Unsupervised models, statistical modeling, feature engineering, and PyTorch implementations. |
-| 🗂️ **Data Structures (Python)** | MSBTE K-Scheme DSA: Trees, graphs, sorting, searching, and algorithm complexity optimization. |
-| ⚡ **Intelligent Automation** | n8n workflow integration, autonomous agents, API integrations, and developer productivity tools. |
-| 📊 **Data Storytelling & Viz** | Insightful exploratory data analysis (EDA), interactive charts, and dashboard designs. |
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikasgadade5sep-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="97%" />
+</div>
 
 ---
 
@@ -84,7 +83,7 @@
   <h3>🤝 Connect & Collaborate</h3>
   
   <a href="https://github.com/vikasgadade5sep-oss">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-vikasgadade5sep--oss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:vikasgadade5sep@gmail.com">
     <img src="https://img.shields.io/badge/Email-vikasgadade5sep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
