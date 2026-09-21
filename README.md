@@ -3,7 +3,8 @@
   
   <p align="center">
     🎓 <b>Diploma in AI & Machine Learning</b> | MSBTE (K-Scheme) <br />
-    🏫 Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai Road
+    🏫 Vidyavardhini's Bhausaheb Vartak Polytechnic, Vasai Road <br />
+    📍 Mira-Bhayandar (West), Maharashtra
   </p>
 
   <p align="center">
@@ -89,13 +90,13 @@
 
 ---
 
-### 🚀 Featured Engineering Repositories
+### 🚀 Upcoming Showcase Projects (In Active Development)
 
-| Project | Description | Tech Stack | Status |
+| Coursework Project | Curriculum Track | Key Focus & Modules | Deployment Status |
 | :--- | :--- | :--- | :--- |
-| [**`msbte-dsa-python`**](https://github.com/vikasgadade5sep-oss/msbte-dsa-python) | Data structures & searching algorithms mapped to MSBTE 313306 with strict type hints and Big-O docstrings. | Python 3.10+, DSA | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
-| [**`ai-statistical-modelling-ml`**](https://github.com/vikasgadade5sep-oss/ai-statistical-modelling-ml) | Ordinary Least Squares regression from scratch, probability distributions & evaluation metrics (MSBTE 313307). | Python, NumPy, Scikit-Learn | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
-| [**`intelligent-document-analyzer`**](https://github.com/vikasgadade5sep-oss/intelligent-document-analyzer) | High-throughput document text extraction and sliding-window semantic chunking pipeline for LLM / RAG tooling. | Python, NLP, Regex | ![Active](https://img.shields.io/badge/Tested-Passing-success?style=flat-square) |
+| **Statistical Modelling for ML (SML)** | MSBTE 313307 | Regression algorithms, probability distributions, hypothesis testing & evaluation metrics. | ![In Progress](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square) |
+| **Database Management System (DMS)** | MSBTE 313302 | Relational schema design, normalization, complex SQL querying & indexing architectures. | ![In Progress](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square) |
+| **Data Structures Using Python (DSP)** | MSBTE 313306 | Core trees, graphs, sorting, searching, and algorithmic Big-O complexity optimizations. | ![In Progress](https://img.shields.io/badge/Status-In%20Development-blue?style=flat-square) |
 
 ---
 
