@@ -7,12 +7,14 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/vikasgadade5sep-oss?tab=repositories">
+    <a href="https://github.com/vikasgadade5sep-oss?tab=repositories" title="View Repositories">
       <img src="https://img.shields.io/badge/Focus-AI%20Engineering%20%26%20Automation-0284c7?style=for-the-badge&logo=openai&logoColor=white" alt="Focus Badge" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=vikasgadade5sep-oss&color=0284c7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-    <a href="#connect">
-      <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=for-the-badge" alt="Status" />
+    <a href="https://github.com/vikasgadade5sep-oss" title="Total Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=vikasgadade5sep-oss&color=0284c7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+    </a>
+    <a href="mailto:vikasgadade5sep@gmail.com?subject=Collaboration%20Inquiry%20via%20GitHub" title="Send Email">
+      <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Status" />
     </a>
   </p>
 </div>
@@ -33,25 +35,55 @@
 <div align="center">
 
 #### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</a>
 
 #### AI, ML & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+</a>
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+</a>
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</a>
 
 #### Automation, DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</a>
+<a href="https://github.com/vikasgadade5sep-oss" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://n8n.io/" target="_blank">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</a>
+<a href="https://www.anaconda.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</a>
 
 </div>
 
@@ -70,7 +102,9 @@
 ### 📈 Activity & Insights
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vikasgadade5sep-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <a href="https://github.com/vikasgadade5sep-oss">
+    <img src="https://streak-stats.demolab.com/?user=vikasgadade5sep-oss&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  </a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
@@ -82,10 +116,10 @@
 <div align="center" id="connect">
   <h3>🤝 Connect & Collaborate</h3>
   
-  <a href="https://github.com/vikasgadade5sep-oss">
+  <a href="https://github.com/vikasgadade5sep-oss" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-vikasgadade5sep--oss-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:vikasgadade5sep@gmail.com">
+  <a href="mailto:vikasgadade5sep@gmail.com?subject=Collaboration%20Inquiry%20from%20GitHub">
     <img src="https://img.shields.io/badge/Email-vikasgadade5sep@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
