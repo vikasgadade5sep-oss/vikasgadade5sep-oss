@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="620" viewBox="0 0 1180 620" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Vikas Gadade — profile.sh --live">
+  <defs>
+    <linearGradient id="accentLight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4F46E5"><animate attributeName="stop-color" values="#4F46E5;#0284C7;#059669;#4F46E5" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#0284C7"><animate attributeName="stop-color" values="#0284C7;#059669;#4F46E5;#0284C7" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#059669"><animate attributeName="stop-color" values="#059669;#4F46E5;#0284C7;#059669" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="panelGradLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F8FAFC"/>
+    </linearGradient>
+    <linearGradient id="neuralGradLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.7"/>
+    </linearGradient>
+    <filter id="glowLight" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="winClipLight">
+      <rect x="2" y="2" width="1176" height="616" rx="16"/>
+    </clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1176" height="616" rx="16" fill="#F1F5F9"/>
+  <g clip-path="url(#winClipLight)">
+    <rect x="2" y="2" width="1176" height="616" fill="url(#panelGradLight)"/>
+    
+    <!-- Title Bar -->
+    <rect x="2" y="2" width="1176" height="44" fill="#F1F5F9"/>
+    <line x1="2" y1="46" x2="1178" y2="46" stroke="#CBD5E1" stroke-width="1"/>
+    <circle cx="28" cy="23" r="5.5" fill="#EF4444"/>
+    <circle cx="48" cy="23" r="5.5" fill="#F59E0B"/>
+    <circle cx="68" cy="23" r="5.5" fill="#10B981"/>
+    <text x="590" y="28" text-anchor="middle" font-size="12" fill="#475569" font-weight="600">vikasgadade5sep@bvpolytechnic:~ % ./profile.sh --live</text>
+
+    <!-- LEFT PANEL: NEURAL ARCHITECTURE / VISUAL MAP -->
+    <text x="38" y="72" font-size="11" letter-spacing="2" fill="#0284C7" font-weight="700">[ 01 ] NEURAL.ARCHITECTURE // AI_CORE</text>
+    <rect x="36" y="84" width="400" height="504" rx="10" fill="#F8FAFC" stroke="#BAE6FD" stroke-width="1.5"/>
+    
+    <!-- Grid lines -->
+    <g opacity="0.2" stroke="#0284C7" stroke-width="0.6" stroke-dasharray="3,3">
+      <line x1="36" y1="140" x2="436" y2="140"/>
+      <line x1="36" y1="200" x2="436" y2="200"/>
+      <line x1="36" y1="260" x2="436" y2="260"/>
+      <line x1="36" y1="320" x2="436" y2="320"/>
+      <line x1="36" y1="380" x2="436" y2="380"/>
+      <line x1="116" y1="84" x2="116" y2="420"/>
+      <line x1="196" y1="84" x2="196" y2="420"/>
+      <line x1="276" y1="84" x2="276" y2="420"/>
+      <line x1="356" y1="84" x2="356" y2="420"/>
+    </g>
+
+    <!-- Radar Sweep in Background -->
+    <g transform="translate(236, 252)">
+      <circle r="120" fill="none" stroke="rgba(2,132,199,0.15)" stroke-width="1"/>
+      <circle r="85" fill="none" stroke="rgba(99,102,241,0.2)" stroke-width="1" stroke-dasharray="4,4"/>
+      <circle r="50" fill="none" stroke="rgba(2,132,199,0.25)" stroke-width="1"/>
+      <circle r="15" fill="none" stroke="#0284C7" stroke-width="1.5" opacity="0.3">
+        <animate attributeName="r" values="5;25;5" dur="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite"/>
+      </circle>
+      <line x1="0" y1="0" x2="110" y2="50" stroke="url(#neuralGradLight)" stroke-width="1.5" opacity="0.8">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <!-- Neural Network Nodes & Connections -->
+    <g stroke="#0284C7" stroke-width="1.2" opacity="0.6" stroke-dasharray="100" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" from="100" to="0" dur="4s" repeatCount="indefinite"/>
+      <line x1="90" y1="160" x2="180" y2="190"/>
+      <line x1="90" y1="160" x2="180" y2="250"/>
+      <line x1="90" y1="220" x2="180" y2="190"/>
+      <line x1="90" y1="220" x2="180" y2="250"/>
+      <line x1="90" y1="220" x2="180" y2="310"/>
+      <line x1="90" y1="280" x2="180" y2="250"/>
+      <line x1="90" y1="280" x2="180" y2="310"/>
+      <line x1="90" y1="340" x2="180" y2="310"/>
+      
+      <line x1="180" y1="190" x2="280" y2="220" stroke="#6366F1"/>
+      <line x1="180" y1="250" x2="280" y2="250" stroke="#0284C7" stroke-width="2"/>
+      <line x1="180" y1="310" x2="280" y2="280" stroke="#6366F1"/>
+      
+      <line x1="280" y1="220" x2="370" y2="200" stroke="#8B5CF6"/>
+      <line x1="280" y1="250" x2="370" y2="250" stroke="#059669" stroke-width="2"/>
+      <line x1="280" y1="280" x2="370" y2="300" stroke="#8B5CF6"/>
+    </g>
+
+    <!-- Layer Nodes -->
+    <g fill="#FFFFFF" stroke="#0284C7" stroke-width="2">
+      <circle cx="90" cy="160" r="6"/><circle cx="90" cy="220" r="6"/><circle cx="90" cy="280" r="6"/><circle cx="90" cy="340" r="6"/>
+      <circle cx="90" cy="160" r="2.5" fill="#0284C7"/>
+      <circle cx="90" cy="220" r="2.5" fill="#0284C7"/>
+      <circle cx="90" cy="280" r="2.5" fill="#0284C7"/>
+      <circle cx="90" cy="340" r="2.5" fill="#0284C7"/>
+      <text x="60" y="164" font-size="9" fill="#64748B" text-anchor="end" font-weight="600">DATA</text>
+      <text x="60" y="224" font-size="9" fill="#64748B" text-anchor="end" font-weight="600">MATH</text>
+      <text x="60" y="284" font-size="9" fill="#64748B" text-anchor="end" font-weight="600">ML_FEAT</text>
+      <text x="60" y="344" font-size="9" fill="#64748B" text-anchor="end" font-weight="600">TENSOR</text>
+    </g>
+
+    <!-- Hidden Nodes -->
+    <g fill="#FFFFFF" stroke="#6366F1" stroke-width="2">
+      <circle cx="180" cy="190" r="7"/><circle cx="180" cy="250" r="7"/><circle cx="180" cy="310" r="7"/>
+      <circle cx="180" cy="190" r="3" fill="#6366F1"/>
+      <circle cx="180" cy="250" r="3" fill="#0284C7">
+        <animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="180" cy="310" r="3" fill="#6366F1"/>
+    </g>
+
+    <!-- Deep Layer Core Nodes -->
+    <g fill="#FFFFFF" stroke="#8B5CF6" stroke-width="2">
+      <circle cx="280" cy="220" r="7"/><circle cx="280" cy="250" r="9" stroke="#0284C7" stroke-width="2.5"/><circle cx="280" cy="280" r="7"/>
+      <circle cx="280" cy="250" r="4" fill="#0284C7"/>
+    </g>
+
+    <!-- Output Nodes -->
+    <g fill="#FFFFFF" stroke="#059669" stroke-width="2">
+      <circle cx="370" cy="200" r="7"/><circle cx="370" cy="250" r="8" stroke="#059669" stroke-width="2.5"/><circle cx="370" cy="300" r="7"/>
+      <circle cx="370" cy="200" r="3" fill="#059669"/>
+      <circle cx="370" cy="250" r="3.5" fill="#059669"/>
+      <circle cx="370" cy="300" r="3" fill="#059669"/>
+      <text x="386" y="204" font-size="9" fill="#059669" font-weight="600">PREDICT</text>
+      <text x="386" y="254" font-size="9" fill="#059669" font-weight="bold">OPTIMIZE</text>
+      <text x="386" y="304" font-size="9" fill="#059669" font-weight="600">AUTOMATE</text>
+    </g>
+
+    <!-- Telemetry Box inside Left Map -->
+    <g transform="translate(50, 420)">
+      <rect width="372" height="152" rx="6" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+      <text x="14" y="24" font-size="10" fill="#0284C7" letter-spacing="1.5" font-weight="700">⚡ HARDWARE &amp; RUNTIME TELEMETRY</text>
+      
+      <text x="14" y="48" font-size="11" fill="#475569">WORKSTATION <tspan fill="#0F172A" font-weight="600">: HP Victus 15-fb3xxx</tspan></text>
+      <text x="14" y="68" font-size="11" fill="#475569">ACCELERATOR <tspan fill="#0284C7" font-weight="600">: NVIDIA RTX 3050 (6GB VRAM)</tspan></text>
+      <text x="14" y="88" font-size="11" fill="#475569">MEMORY POOL <tspan fill="#0F172A" font-weight="600">: 16GB RAM | CUDA Core Acceleration</tspan></text>
+      <text x="14" y="108" font-size="11" fill="#475569">CORE FRAMEWORK <tspan fill="#6366F1" font-weight="600">: PyTorch 2.x • scikit-learn • n8n</tspan></text>
+      
+      <text x="14" y="132" font-size="10" fill="#059669" font-weight="600">OPTIMIZATION :</text>
+      <rect x="110" y="123" width="180" height="9" rx="3" fill="#E2E8F0"/>
+      <rect x="110" y="123" width="168" height="9" rx="3" fill="url(#accentLight)"/>
+      <text x="298" y="132" font-size="10" fill="#0284C7" font-weight="bold">94.2%</text>
+    </g>
+
+    <!-- RIGHT PANEL: SYSTEM.INFO / TERMINAL INTERFACE -->
+    <text x="470" y="72" font-size="11" letter-spacing="2" fill="#0284C7" font-weight="700">[ 02 ] SYSTEM.IDENTITY // MSBTE_AI_ENGINEER</text>
+    <text x="1140" y="72" text-anchor="end" font-size="11" fill="#EF4444" font-weight="700">
+      <tspan fill="#EF4444">●</tspan> LIVE
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+    </text>
+
+    <!-- Terminal Command Line -->
+    <g transform="translate(470, 92)">
+      <text x="0" y="16" font-size="13" fill="#4F46E5" font-weight="700">vikas@ai-core</text>
+      <text x="104" y="16" font-size="13" fill="#64748B">:</text>
+      <text x="112" y="16" font-size="13" fill="#0284C7">~/profile</text>
+      <text x="180" y="16" font-size="13" fill="#0F172A">$ neofetch --engineer</text>
+    </g>
+
+    <!-- Attribute Matrix -->
+    <g font-size="13" xml:space="preserve">
+      <text x="470" y="140" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Subject</tspan><tspan fill="#94A3B8">...........................................................................</tspan><tspan fill="#0F172A" font-weight="700">Vikas Gadade</tspan>
+      </text>
+      <text x="470" y="164" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Discipline</tspan><tspan fill="#94A3B8">....................................................</tspan><tspan fill="#0F172A" font-weight="600">Diploma in Artificial Intelligence &amp; ML</tspan>
+      </text>
+      <text x="470" y="188" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Institution</tspan><tspan fill="#94A3B8">.................................</tspan><tspan fill="#0F172A" font-weight="600">Vidyavardhini&#39;s Bhausaheb Vartak Poly</tspan>
+      </text>
+      <text x="470" y="212" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Curriculum</tspan><tspan fill="#94A3B8">..................................................</tspan><tspan fill="#0F172A" font-weight="600">MSBTE Mumbai (K-Scheme, SYAN)</tspan>
+      </text>
+      <text x="470" y="236" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Location</tspan><tspan fill="#94A3B8">.....................................................</tspan><tspan fill="#0F172A" font-weight="600">Mira-Bhayandar (West), Maharashtra</tspan>
+      </text>
+      <text x="470" y="260" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#0284C7" font-weight="600">Current.Focus</tspan><tspan fill="#94A3B8">...........................................</tspan><tspan fill="#0F172A" font-weight="600">Machine Learning + Agentic Systems</tspan>
+      </text>
+      
+      <!-- Tech Stack Section Header -->
+      <text x="470" y="294" font-size="11" fill="#64748B" letter-spacing="1.5">// TECH CAPABILITIES &amp; SEMESTER ENGINES</text>
+      <line x1="470" y1="302" x2="1130" y2="302" stroke="#E2E8F0" stroke-width="1"/>
+
+      <text x="470" y="326" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#4F46E5" font-weight="600">Core.Languages</tspan><tspan fill="#94A3B8">....................................................</tspan><tspan fill="#0F172A" font-weight="600">Python, SQL, C++, HTML/CSS</tspan>
+      </text>
+      <text x="470" y="350" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#4F46E5" font-weight="600">Data.Science &amp; ML</tspan><tspan fill="#94A3B8">.....................................</tspan><tspan fill="#0F172A" font-weight="600">NumPy, pandas, scikit-learn, PyTorch</tspan>
+      </text>
+      <text x="470" y="374" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#4F46E5" font-weight="600">Automation &amp; Ops</tspan><tspan fill="#94A3B8">........................................</tspan><tspan fill="#0F172A" font-weight="600">n8n, Multi-Agent AI, Git/GitHub, VS Code</tspan>
+      </text>
+      <text x="470" y="398" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#4F46E5" font-weight="600">Academic.Modules</tspan><tspan fill="#94A3B8">.........................</tspan><tspan fill="#0F172A" font-weight="600">SML (313307) • DBMS (313302) • DSP (313306)</tspan>
+      </text>
+
+      <!-- Connection Grid Header -->
+      <text x="470" y="432" font-size="11" fill="#64748B" letter-spacing="1.5">// CONTACT GRID &amp; NETWORK HANDSHAKE</text>
+      <line x1="470" y1="440" x2="1130" y2="440" stroke="#E2E8F0" stroke-width="1"/>
+
+      <text x="470" y="464" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#059669" font-weight="600">Grid.Mail</tspan><tspan fill="#94A3B8">.....................................................</tspan><tspan fill="#0F172A" font-weight="600">vikasgadade5sep@gmail.com</tspan>
+      </text>
+      <text x="470" y="488" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#059669" font-weight="600">Grid.GitHub</tspan><tspan fill="#94A3B8">................................................................</tspan><tspan fill="#0F172A" font-weight="600">@vikasgadade5sep-oss</tspan>
+      </text>
+      <text x="470" y="512" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#059669" font-weight="600">Grid.Location</tspan><tspan fill="#94A3B8">..............................................</tspan><tspan fill="#0F172A" font-weight="600">Mira-Bhayandar (West) • Mumbai MMR</tspan>
+      </text>
+      <text x="470" y="536" textLength="660" lengthAdjust="spacingAndGlyphs">
+        <tspan fill="#059669" font-weight="600">Grid.Status</tspan><tspan fill="#94A3B8">........................................</tspan><tspan fill="#0284C7" font-weight="600">Open for Tech Discussions &amp; AI Collaborations</tspan>
+      </text>
+    </g>
+
+    <!-- Terminal Footer Prompt with Blinking Cursor -->
+    <rect x="470" y="562" width="665" height="28" rx="4" fill="#F1F5F9" stroke="#CBD5E1"/>
+    <text x="482" y="581" font-size="12" fill="#64748B">
+      &#9656; Explore repository tools, statistical models &amp; GitHub activity below &#8595;
+      <tspan fill="#0284C7">&#9608;<animate attributeName="fill-opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></tspan>
+    </text>
+
+  </g>
+
+  <!-- Outer Neon Frame -->
+  <rect x="2" y="2" width="1176" height="616" rx="16" fill="none" stroke="url(#accentLight)" stroke-width="2"/>
+</svg>
