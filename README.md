@@ -1,9 +1,9 @@
 <div align="center">
   <!-- Adaptive Live Hero Terminal Banner (Switches Dark/Light automatically) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light.svg">
-    <img src="dark.svg" width="100%" alt="Vikas Gadade — profile.sh --live">
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg?v=2">
+    <img src="dark.svg?v=2" width="100%" alt="Vikas Gadade — profile.sh --live">
   </picture>
 
   <br><br>
