@@ -1,27 +1,27 @@
 <div align="center">
 
   <!-- 1. HERO VIEWPORT BANNER -->
-  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/hero.svg?v=3" width="100%" alt="Vikas Gadade — Hero" />
+  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/hero.svg?v=4" width="100%" alt="Vikas Gadade — Hero" />
 
   <br><br>
 
   <!-- 2. SWINGING LANYARD ID & AI DASHBOARD -->
-  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/id-dashboard.svg?v=3" width="100%" alt="Vikas Gadade — Student ID and Dashboard" />
+  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/id-dashboard.svg?v=4" width="100%" alt="Vikas Gadade — Student ID and Dashboard" />
 
   <br><br>
 
   <!-- 3. NEURAL TECH ARSENAL & ORBITAL STACK -->
-  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/stack.svg?v=3" width="100%" alt="Vikas Gadade — Tech Stack" />
+  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/stack.svg?v=4" width="100%" alt="Vikas Gadade — Tech Stack" />
 
   <br><br>
 
   <!-- 4. LOCALHOST ML STUDIO & LIFESTYLE CAROUSEL -->
-  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/about-life.svg?v=3" width="100%" alt="Vikas Gadade — Life and Code" />
+  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/about-life.svg?v=4" width="100%" alt="Vikas Gadade — Life and Code" />
 
   <br><br>
 
   <!-- 5. INTERACTIVE CONNECTION CARDS -->
-  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/connect.svg?v=3" width="100%" alt="Vikas Gadade — Connect" />
+  <img src="https://raw.githubusercontent.com/vikasgadade5sep-oss/vikasgadade5sep-oss/main/connect.svg?v=4" width="100%" alt="Vikas Gadade — Connect" />
 
   <br><br>
 
